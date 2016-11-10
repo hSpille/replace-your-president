@@ -5,7 +5,7 @@ trump-to-hillary
 
 Chrome extension that replaces occurrences of 'trump' with 'hillary'
 
-[Direct download of crx file](https://github.com/hspille/trump-to-hillary/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/hSpille/replace-your-president/blob/master/Trump2Hillary.crx?raw=true)
 
 Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
 In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
