@@ -29,12 +29,9 @@ function walk(node)
 
 function handleText(textNode){
 	var textArray = [{
-		originalText: "Donald Trump",
-		updatedText: "Hillary Clinton"
+		originalText: "Donald",
+		updatedText: "Hillary"
 	},{
-		originalText: "President Trump",
-		updatedText: "President Clinton"
-	}, {
 		originalText: "Trump",
 		updatedText: "Clinton"
 	}
