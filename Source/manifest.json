@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Hillary for President",
+	"version": "0.1",
+	"description": "Replaces the President 'Trump' with 'Hillary'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
